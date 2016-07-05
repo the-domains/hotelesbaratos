@@ -1,0 +1,14 @@
+layout_spectrum: 0.18590286350809038
+typography_spectrum: 0.9750247786287218
+color:
+  brandStrength: 0.686298482818529
+  lightness: 0.15908565744757652
+  saturation: 0.2727676094509661
+  rhythmicContrast: 0.016790665918961167
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: HotelesBaratos
